@@ -2,32 +2,7 @@ html, body {
     background-color: #ffeead;
     margin: 10px;
   }
-  
-  .container > div {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 2em;
-    color: #ffeead;
-  }
-  
-  .container > div:nth-child(1n) {
-    background-color: #96ceb4;	
-  }
-  
-  .container > div:nth-child(3n) {
-    background-color: #88d8b0;
-  }
-  
-  .container > div:nth-child(2n) {
-    background-color: #ff6f69;
-  }
-  
-  .container > div:nth-child(4n) {
-    background-color: #ffcc5c;
-  }
-  
-  
+    
   .container2 > div {
     display: flex;
     justify-content: center;
@@ -36,21 +11,7 @@ html, body {
     color: #ffeead;
   }
   
-  .container2 > div:nth-child(1n) {
-    background-color: #96ceb4;	
-  }
-  
-  .container2 > div:nth-child(3n) {
-    background-color: #88d8b0;
-  }
-  
-  .container2 > div:nth-child(2n) {
-    background-color: #ff6f69;
-  }
-  
-  .container2 > div:nth-child(4n) {
-    background-color: #ffcc5c;
-  }
+
   
   .title {
     color: #ff6f69;
@@ -73,7 +34,7 @@ html, body {
 
 
   :root {
-    --primary: #FFCE00;
+    --primary: #f1eaed;
     --secondary: #FE4880;
     --dark: #212121;
     --light: #F3F3F3;
