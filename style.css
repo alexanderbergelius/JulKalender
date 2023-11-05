@@ -1,5 +1,18 @@
+
+*{margin:0; /* browser har ''naturligt'' padding/ margin, här tar jag bort detta */
+  padding: 0;}
+  
+  
+  body { /* bakgrundbild för sidan */
+  background-image: url("hjärtan.jpeg");
+  background-repeat: no-repeat; /* bilden upprepas inte */
+  background-attachment: fixed; /* skrollas inte med sidan */
+  background-size: cover; /* täcker hela sidan */
+  }
+
+
 html, body {
-    background-color: #ffeead;
+    
     margin: 10px;
   }
     
