@@ -12,6 +12,7 @@ header{
   background-repeat: no-repeat; /* bilden upprepas inte */
   background-attachment: fixed; /* skrollas inte med sidan */
   background-size: cover; /* täcker hela sidan */
+  
   }
 
 
