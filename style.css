@@ -1,10 +1,16 @@
 
+
+
+
+
 *{margin:0; /* browser har ''naturligt'' padding/ margin, här tar jag bort detta */
   padding: 0;}
   
   
 header{
   text-align: center;
+  color: #f1eaed;
+  text-shadow: 4px 4px #c44242;
 }
 
   body { /* bakgrundbild för sidan */
@@ -39,7 +45,10 @@ audio{
 }
 
 
-
+.audion{
+  position: absolute;    /* gör så att ljudet spelas utan att playern syns. Måste öppnas på safari*/
+  left: -9999px;
+}
 
 
 
