@@ -14,7 +14,7 @@ header{
 }
 
   body { /* bakgrundbild för sidan */
-  background-image: url("img/hjärtanCC.jpg");
+  background-image: url("img/hjärtan.jpeg");
   background-repeat: no-repeat; /* bilden upprepas inte */
   background-attachment: fixed; /* skrollas inte med sidan */
   background-size: cover; /* täcker hela sidan */
